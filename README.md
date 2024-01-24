@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Marley Racolto</h1>
 <h3 align="center">Apaixonado por Ciência e Análise de Dados</h3>
 
-- Atualmente aprendendo Python, C#, Estatísticas **UDEMY e Faculdade**
+- Atualmente aprendendo Python, C#, Estatísticas **Alura e Faculdade**
 
-- Me pergunte sobre **C#, Python, Front e Back-End e IA.**
+- Me pergunte sobre **C#, Python, SQL, Javascript, HTML e IA.**
 
 - Como entrar em contato comigo **marley.racolto@gmail.com**
 
